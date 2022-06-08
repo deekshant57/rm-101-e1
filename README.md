@@ -1,6 +1,6 @@
 # Task
 
-- Create a Similar page to [TODO App with Item Count](https://rct-101-e1.herokuapp.com/) using the Provided Boilerplate
+- Updated Create a Similar page to [TODO App with Item Count](https://rct-101-e1.herokuapp.com/) using the Provided Boilerplate
 
 # Getting Started
 
