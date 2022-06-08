@@ -1,7 +1,16 @@
 .tasks {
-  /* sample */
+  /* margin-top: 1.5rem; */
 }
 
-.empty {
-  /* sample */
+/* .empty {
+} */
+.empty p {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.empty img {
+  display: inline-block;
+  width: 50px;
+  opacity: 0.5;
 }
